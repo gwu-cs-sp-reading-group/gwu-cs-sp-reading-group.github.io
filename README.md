@@ -5,6 +5,7 @@ Welcome to the GWU/CS Security and Privacy Reading Group Page!
 We meet regularly on Thursdays from 11:30am to 1:00pm during the academic year. There is a brown bag lunch from 11:30-12:00 and then a discussion/presentation from 12:00-1:00. 
 
 **Location**: SEH 4990
+
 **Mailing List**: cs-sp-read@hermes.gwu.edu
 
 ## Schedule for Spring 2020
