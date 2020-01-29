@@ -19,7 +19,9 @@ We meet regularly on Thursdays from 11:30am to 1:00pm during the academic year. 
   * Readng: [Demystifying Hidden Privacy Settings in Mobile Apps](https://www.computer.org/csdl/proceedings-article/sp/2019/666000a850/19skg3Y4ne0) . Y. Chen and M. Zha and N. Zhang and D. Xu and Q. Zhao and X. Feng and K. Yuan and F. Suya and Y. Tian and K. Chen and X. Wang and W. Zou. S&P 2019 (Oakland)
   * Presenter: James Levy
   
-* Jan. 30, 2020: TBA
+* Jan. 30, 2020: 
+  * Reading: Luckie, Matthew, et al. [Network Hygiene, Incentives, and Regulation: Deployment of Source Address Validation in the Internet](https://rbeverly.net/research/papers/respoof-ccs19.pdf). Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security (CCS'19). 2019.
+  * Presenter: Ratnadeep Bhattacharya 
 
 * Feb. 6, 2020: 
   * Reading: [Watching You Watch: The Tracking Ecosystem of Over-the-Top TV Streaming Devices](https://tv-watches-you.princeton.edu/tv-tracking-acm-ccs19.pdf). Hooman Mohajeri Moghaddam, Gunes Acar, Ben Burgess, Arunesh Mathur, Danny Yuxing Huang,Nick Feamster, Edward W. Felten, Prateek Mittal, Arvind Narayanan.
