@@ -27,6 +27,9 @@ We meet regularly on Thursdays from 11:30am to 12:30pm during the academic year.
   * Reading: [Watching You Watch: The Tracking Ecosystem of Over-the-Top TV Streaming Devices](https://tv-watches-you.princeton.edu/tv-tracking-acm-ccs19.pdf). Hooman Mohajeri Moghaddam, Gunes Acar, Ben Burgess, Arunesh Mathur, Danny Yuxing Huang,Nick Feamster, Edward W. Felten, Prateek Mittal, Arvind Narayanan.
    * Presenter: Irwin Reyes
    
-* Feb. 13, 2020: TBA 
+* Feb. 13, 2020:
+  * Reading: [ERIM: Secure, Efficient In-process Isolation with Protection Keys (MPK)](https://www.usenix.org/conference/usenixsecurity19/presentation/vahldiek-oberwagner). Anjo Vahldiek-Oberwagner, Eslam Elnikety, Nuno O. Duarte, Michael Sammler, Peter Druschel, and Deepak Garg, Max Planck Institute for Software Systems, Saarland Informatics Campus. USENIX Sec' 19.
+  * Presenter: Gabrial Parmer
+  
 * Feb. 20, 2020: 
 * Feb. 27, 2020: TBA 
