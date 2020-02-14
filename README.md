@@ -30,6 +30,20 @@ We meet regularly on Thursdays from 11:30am to 12:30pm during the academic year.
 * Feb. 13, 2020:
   * Reading: [ERIM: Secure, Efficient In-process Isolation with Protection Keys (MPK)](https://www.usenix.org/conference/usenixsecurity19/presentation/vahldiek-oberwagner). Anjo Vahldiek-Oberwagner, Eslam Elnikety, Nuno O. Duarte, Michael Sammler, Peter Druschel, and Deepak Garg, Max Planck Institute for Software Systems, Saarland Informatics Campus. USENIX Sec' 19.
   * Presenter: Gabrial Parmer
-  
-* Feb. 20, 2020: 
-* Feb. 27, 2020: TBA 
+
+* Feb. 20, 2020:
+   * Reading: TBD
+   * Presenter: Linshing Liu
+   
+* Feb. 27, 2020:
+   * Reading: TBD
+   * Presenter:TBD
+   
+* Mar. 5, 2020:
+   * Reading: TBD
+   * Presenter: TBD
+   
+* Mar. 12, 2020:
+  * Reading:  Mainack Mondal, Günce Su Yılmaz, Noah Hirsch, Mohammad Taha Khan,Michael Tang, Christopher Tran, Chris Kanich, Blase Ur, and Elena Zheleva.2019. [Moving Beyond Set-It-And-Forget-It Privacy Settings on Social Media](https://www.blaseur.com/papers/setitandforgetit-ccs19.pdf). In 2019 ACM SIGSAC Conference on Computer and Communications Security(CCS ’19),
+  * Presenter: David Balash
+
