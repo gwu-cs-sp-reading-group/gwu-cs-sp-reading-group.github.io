@@ -49,7 +49,7 @@ We meet regularly on Thursdays from 11:30am to 12:30pm during the academic year.
 
 <hr>
 <hr>
-* Mar. 19, 2020: SPRING BREAK
+SPRING BREAK
 <hr>
 <hr>
 
