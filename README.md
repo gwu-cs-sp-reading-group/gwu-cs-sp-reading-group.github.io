@@ -32,12 +32,12 @@ We meet regularly on Thursdays from 11:30am to 12:30pm during the academic year.
   * Presenter: Gabrial Parmer
 
 * Feb. 20, 2020:
-   * Reading: Nirvan Tyagi, Ian Miers, and Thomas Ristenpart. 2019. [Traceback for End-to-End Encrypted Messaging](https://eprint.iacr.org/2019/981.pdf). In Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security (CCS ’19). Association for Computing Machinery, New York, NY, USA, 413–430. 
+   * Reading: Nirvan Tyagi, Ian Miers, and Thomas Ristenpart. 2019. [Traceback for End-to-End Encrypted Messaging](https://eprint.iacr.org/2019/981.pdf). In Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security (CCS ’19). Association for Computing Machinery, New York, NY, USA, 413–430.  (PART 1)
    * Presenter: Linshing Liu
    
 * Feb. 27, 2020:
-   * Reading: TBD
-   * Presenter:TBD
+   * Reading: Nirvan Tyagi, Ian Miers, and Thomas Ristenpart. 2019. [Traceback for End-to-End Encrypted Messaging](https://eprint.iacr.org/2019/981.pdf). In Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security (CCS ’19). Association for Computing Machinery, New York, NY, USA, 413–430.  (PART 2)
+   * Presenter: Linshing Liu
    
 * Mar. 5, 2020:
    * Reading: TBD
