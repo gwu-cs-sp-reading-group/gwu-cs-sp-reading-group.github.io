@@ -47,11 +47,15 @@ We meet regularly on Thursdays from 11:30am to 12:30pm during the academic year.
   * Reading:  Mainack Mondal, Günce Su Yılmaz, Noah Hirsch, Mohammad Taha Khan,Michael Tang, Christopher Tran, Chris Kanich, Blase Ur, and Elena Zheleva.2019. [Moving Beyond Set-It-And-Forget-It Privacy Settings on Social Media](https://www.blaseur.com/papers/setitandforgetit-ccs19.pdf). In 2019 ACM SIGSAC Conference on Computer and Communications Security(CCS ’19),
   * Presenter: David Balash
 
+<hr>
+<hr>
 * Mar. 19, 2020: SPRING BREAK
+<hr>
+<hr>
 
 * Mar. 26, 2020
-   * Reading: TBD
-   * Presenter:TBD
+   * Reading: "something about differential privacy"
+   * Presenter: Honglu Jiang
    
 * Apr. 2, 2020
    * Reading: TBD
