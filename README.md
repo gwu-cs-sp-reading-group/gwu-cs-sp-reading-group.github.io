@@ -40,7 +40,7 @@ We meet regularly on Thursdays from 11:30am to 12:30pm during the academic year.
    * Presenter: Linshing Liu
    
 * Mar. 5, 2020:
-   * Reading: TBD
+   * Reading: Acar, Y., Backes, M., Fahl, S., Kim, D., Mazurek, M. L., & Stransky, C. (2016, May). [You Get Where You're Looking for: The Impact of Information Sources on Code Security](https://main.sec.uni-hannover.de/pdf/conf-sp-AcarBFKMS16.pdf). In 2016 IEEE Symposium on Security and Privacy (SP) (pp. 289-305). IEEE.
    * Presenter: Yasmine Acar
    
 * Mar. 12, 2020:
