@@ -41,7 +41,7 @@ We meet regularly on Thursdays from 11:30am to 12:30pm during the academic year.
    
 * Mar. 5, 2020:
    * Reading: Acar, Y., Backes, M., Fahl, S., Kim, D., Mazurek, M. L., & Stransky, C. (2016, May). [You Get Where You're Looking for: The Impact of Information Sources on Code Security](https://main.sec.uni-hannover.de/pdf/conf-sp-AcarBFKMS16.pdf). In 2016 IEEE Symposium on Security and Privacy (SP) (pp. 289-305). IEEE.
-   * Presenter: Yasmine Acar
+   * Presenter: Yasemine Acar
    
 * Mar. 12, 2020:
   * Reading:  Mainack Mondal, Günce Su Yılmaz, Noah Hirsch, Mohammad Taha Khan,Michael Tang, Christopher Tran, Chris Kanich, Blase Ur, and Elena Zheleva.2019. [Moving Beyond Set-It-And-Forget-It Privacy Settings on Social Media](https://www.blaseur.com/papers/setitandforgetit-ccs19.pdf). In 2019 ACM SIGSAC Conference on Computer and Communications Security(CCS ’19),
