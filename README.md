@@ -4,7 +4,7 @@ Welcome to the GWU/CS Security and Privacy Reading Group Page!
 
 We meet regularly on Thursdays from 11:30am to 12:30pm during the academic year. There is a brown bag lunch from 11:30-11:45 and then a discussion/presentation from 11:45-12:30 (or until folks have to go). 
 
-**Location**: SEH 4990
+**Location**: ~~SEH 4990~~ Virtual on Zoom (contact mailing-list owner for link)
 
 **Mailing List**: cs-sp-read@hermes.gwu.edu
 
@@ -57,11 +57,11 @@ SPRING BREAK
   * Presenter: David Balash
      
 * Apr. 2, 2020
-  * Reading: "something about differential privacy"
-  * Presenter: Honglu Jiang
+  * Reading: Lyastani, Sanam Ghorbani, Michael Schilling, Michaela Neumayr, Michael Backes, and Sven Bugiel. "[Is FIDO2 the Kingslayer of User Authentication? A Comparative Usability Study of FIDO2 Passwordless Authentication](https://sanamlyastani.github.io/publication/oakland20/oakland20.pdf)." IEEE S&P 2020. 
+  * Presenter: Annika Hildebrandt (University of Chicago)
 
 * Apr. 9, 2020
-   * Reading: TBD
+   * Reading: Mare, Shrirang, Franziska Roesner, and Tadayoshi Kohno. "[Smart Devices in Airbnbs: Considering Privacy and Security for both Guests and Hosts](https://petsymposium.org/2020/files/papers/issue2/popets-2020-0035.pdf)." Proceedings on Privacy Enhancing Technologies (2020): 436-458.
    * Presenter:TBD
 
 * Apr. 16, 2020
