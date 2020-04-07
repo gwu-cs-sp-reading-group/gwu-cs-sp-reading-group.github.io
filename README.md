@@ -62,7 +62,7 @@ SPRING BREAK
 
 * Apr. 9, 2020
    * Reading: Mare, Shrirang, Franziska Roesner, and Tadayoshi Kohno. "[Smart Devices in Airbnbs: Considering Privacy and Security for both Guests and Hosts](https://petsymposium.org/2020/files/papers/issue2/popets-2020-0035.pdf)." Proceedings on Privacy Enhancing Technologies (2020): 436-458.
-   * Presenter:TBD
+   * Presenter: Adam Aviv
 
 * Apr. 16, 2020
    * Reading: TBD
