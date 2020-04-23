@@ -65,16 +65,16 @@ SPRING BREAK
    * Presenter: Adam Aviv
 
 * Apr. 16, 2020
-   * Reading: TBD
-   * Presenter:TBD
+   * Reading: Philipp Markert, Daniel V. Bailey, Maximilian Golla, Markus Dürmuth, and Adam J. Aviv. [This PIN Can Be Easily Guessed.](https://arxiv.org/pdf/2003.04868). IEEE S&P 2020. 
+   * Presenter: Philipp Markert
 
 * Apr. 23, 2020
-   * Reading: TBD
-   * Presenter:TBD
+   * Reading: Ariana Mirian, Joe DeBlasio, Stefan Savage, Geoffrey M. Voelker, and Kurt Thomas. 2019. [Hack for Hire: Exploring the Emerging Market for Account Hijacking](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/8ba3e711f575ba43c49fe92e27fcf74d3de411b3.pdf). WWW'19. 
+   * Presenter: Austin Theriault
 
 * Apr. 30, 2020
-   * Reading: TBD
-   * Presenter:TBD
+   * Reading:  Theo Bertram Elie Bursztein Stephanie Caro Hubert Chao Rutledge Chin Feman Peter Fleischer Albin Gustafsson Jess Hemerly Chris Hibbert Luca Invernizzi Lanah Kammourieh Donnelly Jason Ketover Jay Laefer Paul Nicholas Yuan Niu Harjinder Obhi David Price Andrew Strait Kurt Thomas Al Verney.[Five Years of the Right to be Forgotten](https://research.google/pubs/pub48483/). CHI'19. 
+   * Presenter: Florian Farke
 
 * May 7, 2020
    * Reading: TBD
