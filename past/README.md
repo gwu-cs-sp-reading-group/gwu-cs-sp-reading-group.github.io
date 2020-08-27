@@ -1,3 +1,3 @@
 # Past Semesters of Reading Group
 
-* [Spring 2020](spring-2020)
+* [Spring 2020](spring-2020.md)
